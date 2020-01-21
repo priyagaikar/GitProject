@@ -1,2 +1,6 @@
 change request 1-
-for updating adding items to 
+for updating adding items to  kart 
+
+change file to partial implimentation
+
+change the file to 
