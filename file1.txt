@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello Woprld!!!
 
 welcome to git
@@ -5,3 +6,6 @@ welcome to git
 change for feature - login
 change for feature - logout
 
+=======
+Hello Woprld!!!
+>>>>>>> parent of 20de4c2... file1 updated for welcome to git
